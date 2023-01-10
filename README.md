@@ -37,9 +37,9 @@ Key learning aspects about this project:
 * [![Python][Python]][Python-url]
 * [![Matplotlib][Matplotlib]][Matplotlib-url]
 * [![SQLite][SQLite]][SQLite-url]
-* [![xlrd][xlrd]][xlrd-url]
 * [![Numpy][Numpy]][Numpy-url]
 * [![urllib][urllib]][urllib-url]
+* [![xlrd][xlrd]][xlrd-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -57,7 +57,7 @@ Key learning aspects about this project:
 [Matplotlib-url]: https://matplotlib.org/
 [SQLite]:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]: https://www.sqlite.org/index.html
-[xlrd]:https://img.shields.io/v1?&message=xlrd&color=green?style=for-the-badge>
+[xlrd]:https://img.shields.io/badge/-xlrd-green?style=for-the-badge
 [xlrd-url]: https://xlrd.readthedocs.io/en/latest/
-[urllib]: https://img.shields.io/v1?&message=urllib&color=lightblue?style=for-the-badge>
+[urllib]: https://img.shields.io/badge/-urllib-9cf?style=for-the-badge
 [urllib-url]: https://docs.python.org/3/library/urllib.html
