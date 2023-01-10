@@ -6,9 +6,6 @@ Python project analyzing data about tourism in Greece from csv files downloaded 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.elastic.co/">
-    <img src="elstat.jpg" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Analyzing Data from HSA (Hellenic Statistical Authority)</h3>
 
@@ -60,7 +57,7 @@ Key learning aspects about this project:
 [Matplotlib-url]: https://matplotlib.org/
 [SQLite]:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]: https://www.sqlite.org/index.html
-[xlrd]:https://img.shields.io/static/v1?&message=xlrd&color=green?style=for-the-badge>
+[xlrd]:https://img.shields.io/v1?&message=xlrd&color=green?style=for-the-badge>
 [xlrd-url]: https://xlrd.readthedocs.io/en/latest/
-[urllib]: https://img.shields.io/static/v1?&message=urllib&color=lightblue?style=for-the-badge>
+[urllib]: https://img.shields.io/v1?&message=urllib&color=lightblue?style=for-the-badge>
 [urllib-url]: https://docs.python.org/3/library/urllib.html
